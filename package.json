@@ -1,0 +1,25 @@
+{
+  "name": "gbeanmall-management",
+  "version": "1.0.0",
+  "description": "后台管理",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "formidable": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dakeng/GBeanMall-management.git"
+  },
+  "author": "dakeng <123maple_leaves@sina.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dakeng/GBeanMall-management/issues"
+  },
+  "homepage": "https://github.com/dakeng/GBeanMall-management#readme"
+}

@@ -1,10 +1,17 @@
 # GBeanMall-management
-后台管理
+金豆商城后台管理系统
 
-### 运行node服务器
-npm start<br>
-浏览器打开<br>
-localhost:8888<br>
-localhost:8888/start<br>
-localhost:8888/upload<br>
-localhost:8888/show<br>
+## Setup
+
+1. 安装依赖
+
+```
+npm install
+```
+2. 运行
+
+```
+npm start
+```
+3. 浏览器打开 localhost:4000/system/common
+

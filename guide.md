@@ -7,7 +7,7 @@
 - [node+mongodb 建站攻略（一期）]((https://www.imooc.com/learn/75)])
 - [node建站攻略(二期)——网站升级](https://www.imooc.com/learn/197)
 
-## 后端
+## 依赖
 
 - [Node.js](https://nodejs.org/en/)
 - [express](https://expressjs.com/)
@@ -15,9 +15,6 @@
 - [mongoose](http://mongoosejs.com/docs/)
 - [art-template](https://github.com/aui/art-template)
 - [Moment.js](https://momentjs.com/)
-
-## 前端
-
 - [React](https://reactjs.org/)
 - [Signals](http://millermedeiros.github.io/js-signals/)
 
@@ -40,7 +37,6 @@
 商品录入页（增删改查）
 
 任务录入页（增删改查）
-
 
 
 

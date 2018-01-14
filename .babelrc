@@ -2,5 +2,7 @@
     "presets": [
       "es2015"
     ],
-    "plugins": []
+    "plugins": [
+      ["import", { "libraryName": "antd", "libraryDirectory": "es", "style": "css" }]
+    ]
   }

@@ -14,6 +14,7 @@ var MongoClient = require('./db');
 var app = express();
 
 // view engine setup
+//使用art-template模板
 app.engine('html', require('express-art-template'));
 app.set('view options', {
   debug: process.env.NODE_ENV !== 'production'
